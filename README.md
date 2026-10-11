@@ -33,7 +33,7 @@ Atsumeru is built and maintained by **Marcel Effinger**.
 
 - 🌐 **Website:** [atsumeru.de](https://atsumeru.de)
 - ✉️ **Contact:** [marcel@atsumeru.de](mailto:marcel@atsumeru.de)
-- 🐙 **GitHub:** [@effingernet](https://github.com/effingernet)
+- 🐙 **GitHub:** [@effinger-net](https://github.com/effinger-net)
 
 Dedicated to building developer-friendly, privacy-respecting, and distraction-free software that solves real day-to-day challenges.
 
