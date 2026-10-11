@@ -32,7 +32,7 @@ Modern knowledge work is constantly fragmented by meetings, context switches, an
 Atsumeru is built and maintained by **Marcel Effinger**.
 
 - 🌐 **Website:** [atsumeru.de](https://atsumeru.de)
-- ✉️ **Contact:** [marcel@effinger.net](mailto:marcel@effinger.net)
+- ✉️ **Contact:** [marcel@atsumeru.de](mailto:marcel@atsumeru.de)
 - 🐙 **GitHub:** [@effingernet](https://github.com/effingernet)
 
 Dedicated to building developer-friendly, privacy-respecting, and distraction-free software that solves real day-to-day challenges.
